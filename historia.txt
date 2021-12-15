@@ -6,4 +6,6 @@ Anita Platzi es una persona que contribuye a este proyecto OpenSource
 
 Mañana nos enfocaremos en su vida laboral
 
+Este solo es un cambio para ver que haya realizado la conexion ssh correctamente
+
 
